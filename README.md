@@ -15,7 +15,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Frontend Stack Web and Hybrid Mobile Application Software Engineer from <b>Chile</b> 」
+    「 I am a Frontend Web and Hybrid Mobile Application Software Engineer from <b>Chile</b> 」
     <br>
     <br>
   </samp>
